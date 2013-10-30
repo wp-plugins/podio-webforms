@@ -13,17 +13,17 @@ Easily add your Podio Webforms anywhere in WordPress via shortcode.
 
 Easily add your Podio Webforms anywhere in WordPress via shortcode. Don't worry about all that Podio Webform code, and you don't have to switch to the HTML Editor to paste anything. Just go to your Podio app's webform page and find your code (no need to copy and paste). Look at the code and find the https://podio.com/webforms/<strong>9876543/123456</strong>.js part, and create a shortcode like this: <strong>[podioform appid='9876543' formid='123456']</strong>. <em>That's it.</em> Optionally, can add [podioform ... showfooter='no'].
 
-List of Examples:
-[podioform appid='9876543' formid='123456']
-[podioform appid='9876543' formid='123456' showfooter='no']
-[podioform appid='9876543' formid='123456' footerlink='https://podio.com/r/enlaREvfxo9M-sl8uX4EtA']
+= List of Examples: =
+* [podioform appid='9876543' formid='123456']
+* [podioform appid='9876543' formid='123456' showfooter='no']
+* [podioform appid='9876543' formid='123456' footerlink='https://podio.com/r/enlaREvfxo9M-sl8uX4EtA']
 
 Don't forget to whitelist your allowed domains in your Podio settings, otherwise your forms won't show up.
 
-Podio Webform Tips:
-https://help.podio.com/entries/21684758-Creating-a-webform-from-an-app
-https://developers.podio.com/examples/webforms
-https://zapier.com/zapbook/podio/
+= Podio Webform Tips: =
+* https://help.podio.com/entries/21684758-Creating-a-webform-from-an-app
+* https://developers.podio.com/examples/webforms
+* https://zapier.com/zapbook/podio/
 
 == Installation ==
 
