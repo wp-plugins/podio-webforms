@@ -25,9 +25,10 @@ Just go to your Podio app's webform page and find your code (no need to copy and
 Don't forget to whitelist your allowed domains in your Podio settings, otherwise your forms won't show up.
 
 = Podio Webform Tips: =
-* https://help.podio.com/entries/21684758-Creating-a-webform-from-an-app
-* https://developers.podio.com/examples/webforms
-* https://zapier.com/zapbook/podio/
+* <a href="https://help.podio.com/entries/21684758-Creating-a-webform-from-an-app" target="_blank">How to create a Podio Webform</a>
+* <a href="https://developers.podio.com/examples/webforms" target="_blank">Webform Examples for Podio Developers</a>
+* <a href="https://podio.com/market" target="_blank">Podio Apps Market</a> (all apps are free, some come pre-configured as Webforms)
+* <a href="https://zapier.com/zapbook/podio/" target="_blank">Zapier Podio Integrations</a>
 
 == Installation ==
 
@@ -55,11 +56,11 @@ No need. Just enjoy. If you don't have a Podio account yet, I'd appreciate you s
 == Screenshots ==
 1. 1) From within your Podio app, go to the app's settings and click "Webform"
 2. 2) Make sure your domains are whitelisted
-3. 3) Find your AppID and FormID. If you don't need advanced customization, skip to screenshot #7)
+3. 3) Find your AppID and FormID (if you don't need advanced customization, skip to screenshot #7)
 4. 4) Configure the Webform settings as desired
 5. 5) For example, customize the form's look and feel, possibly with custom CSS
 6. 6) Custom CSS is loaded via the form, not via WordPress, so read Podio's documentation if you want to customize to this extent
-7. 7) Insert shortcode using your Podio AppID and FormID (see screenshot #3, above)
+7. 7) Insert shortcode using your Podio AppID and FormID (from screenshot #3, above)
 
 == Changelog ==
 * Changelog DIFFs for all versions are available at <a href="http://plugins.trac.wordpress.org/browser/podio-webforms/trunk" target="_blank">WordPress SVN</a>.
