@@ -52,6 +52,14 @@ The footer is English-only as-is. Feel free to contribute there too.
 
 No need. Just enjoy. If you don't have a Podio account yet, I'd appreciate you signing up for your free or paid account via my referral link: https://podio.com/r/enlaREvfxo9M-sl8uX4EtA
 
+== Screenshots ==
+1. 1) From within your Podio app, go to the app's settings and click "Webform"
+2. 2) Make sure your domains are whitelisted
+3. 3) Find your AppID and FormID. If you don't need advanced customization, skip to screenshot #7)
+4. 4) Configure the Webform settings as desired
+5. 5) For example, customize the form's look and feel, possibly with custom CSS
+6. 6) Custom CSS is loaded via the form, not via WordPress, so read Podio's documentation if you want to customize to this extent
+7. 7) Insert shortcode using your Podio AppID and FormID (see screenshot #3, above)
 
 == Changelog ==
 * Changelog DIFFs for all versions are available at <a href="http://plugins.trac.wordpress.org/browser/podio-webforms/trunk" target="_blank">WordPress SVN</a>.
