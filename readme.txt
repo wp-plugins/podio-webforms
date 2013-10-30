@@ -13,7 +13,7 @@ Easily add your Podio Webforms anywhere in WordPress via shortcode.
 
 Easily add your Podio Webforms anywhere in WordPress via shortcode. Don't worry about all that Podio Webform code, and you don't have to switch to the HTML Editor to paste anything.
 
-Just go to your Podio app's webform page and find your code (no need to copy and paste). Look at the code and find the https://podio.com/webforms/<strong>9876543/123456</strong>.js part, and create a shortcode like this: <strong>[podioform appid='9876543' formid='123456']</strong>.
+Just go to your Podio app's webform page and find your code (no need to copy and paste). Look at the code and find the https...podio.com/webforms/<strong>9876543/123456</strong>.js part, and create a shortcode like this: <strong>[podioform appid='9876543' formid='123456']</strong>.
 
 <em>That's it.</em> Optionally, can add [podioform ... showfooter='no'].
 
