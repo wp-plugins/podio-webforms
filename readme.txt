@@ -35,20 +35,20 @@ Automatically or manually install to wp-content/plugins/
 
 == Frequently Asked Questions ==
 
-Why?
+= Why? =
 
 Because Podio is free, cool, and very flexible. One example is webforms, which is what this shortcode plugin makes even easier. Don't have Podio yet? Sign up now at my referral link: https://podio.com/r/enlaREvfxo9M-sl8uX4EtA
 
-MultiSite?
+= MultiSite? =
 
 It's a simple shortcode plugin with no network admin level settings. Works fine as a regular plugin within Multisite.
 
-What's on the Wish List?
+= What's on the Wish List? =
 
 Unfortunately, I couldn't get the forms to render using WP's enqueue script code. Not sure why. Feel free to edit the code to try to get that to work and let me know if you do. I'd like to get that working, if possible.
 The footer is English-only as-is. Feel free to contribute there too.
 
-How can I give back?
+= How can I give back? =
 
 No need. Just enjoy. If you don't have a Podio account yet, I'd appreciate you signing up for your free or paid account via my referral link: https://podio.com/r/enlaREvfxo9M-sl8uX4EtA
 
