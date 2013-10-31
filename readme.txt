@@ -31,6 +31,8 @@ Don't forget to whitelist your allowed domains in your Podio settings, otherwise
 * <a href="https://podio.com/market" target="_blank">Podio Apps Market</a> (all apps are free, some come pre-configured as Webforms)
 * <a href="https://zapier.com/zapbook/podio/" target="_blank">Zapier Podio Integrations</a>
 
+FYI: This is a third-party plugin, not officially from the Podio company.
+
 == Installation ==
 
 Automatically or manually install to wp-content/plugins/
