@@ -10,6 +10,9 @@ Author URI: https://podio.com/r/enlaREvfxo9M-sl8uX4EtA
 License: GPLv2 or later
 */
 
+// ideas:
+// suggestions for custom success message to track goals or consider something like http://www.podiomail.com/blog/podio-webforms-and-google-analytics-goals.php
+
 // Add Shortcode
 function pf_podioform( $atts ) {
 

@@ -30,6 +30,7 @@ Don't forget to whitelist your allowed domains in your Podio settings, otherwise
 * <a href="https://developers.podio.com/examples/webforms" target="_blank">Webform Examples for Podio Developers</a>
 * <a href="https://podio.com/market" target="_blank">Podio Apps Market</a> (all apps are free, some come pre-configured as Webforms)
 * <a href="https://zapier.com/zapbook/podio/" target="_blank">Zapier Podio Integrations</a>
+* <a href="https://www.itduzzit.com/connect/podio" target="_blank">itDuzzit Podio Integrations</a>
 
 FYI: This is a third-party plugin, not officially from the Podio company.
 
